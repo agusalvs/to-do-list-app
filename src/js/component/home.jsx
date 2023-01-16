@@ -83,7 +83,7 @@ const Home = () => {
 
 
     return (
-        <div className="container">
+        <div className="container rounded-4 my-4" style={{width: "50%", backgroundColor: "rgb(79, 05, 108)"}}>
 
             <div className="m-auto tamañoDiv padding-superior">
                 <div className="p-4 color-de-fondo">
